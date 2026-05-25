@@ -71,7 +71,7 @@ As evidências de execução do laboratório estão disponíveis na pasta `evide
 
 ### Aplicação OWASP Juice Shop em execução
 
-![Juice Shop rodando](evidencias/02-juice-shop-rodando.png)
+![Juice Shop rodando](evidencias/02-juice-shop.png)
 
 ### Container Docker em execução
 
@@ -83,8 +83,11 @@ As evidências de execução do laboratório estão disponíveis na pasta `evide
 
 ### Relatório HTML gerado
 
-![Relatório OWASP ZAP](evidencias/05-relatorio-zap-html.png)
+![Relatório OWASP ZAP](evidencias/05-owasp-zap.png)
 
+### Alertas
+
+![Alertas OWASP ZAP](evidencias/06-owasp-zap-alerts.png)
 ---
 
 ## Resultados obtidos
